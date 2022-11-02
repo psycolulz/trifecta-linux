@@ -111,7 +111,7 @@ installanonsurf() {
     command git clone https://github.com/Und3rf10w/kali-anonsurf
     echo
     echo "Exit Tool, Type cd kali-anonsurf, and run installer.sh (must be run as root!)"
-    timeout 40
+    sleep 40
     main
 }
 runanonsurf() {
