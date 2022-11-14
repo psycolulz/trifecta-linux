@@ -4,18 +4,15 @@
 ## Important: Tool Must Be Run As Root To Use Anonsurf And Certain Scanning Options. The Search Engine WILL NOT WORK As Root, So Just Do Not Run The Tool 
 ## As Root If You Are Trying To Use The Search Engine.
 
-## How To Install AnonSurf After Using The Install Option Within The Tool: Press Ctrl + C | Type "ls" | You will see "kali-anonsurf", Type "cd kali-anonsurf" |
-## Type "bash installer.sh | Re-Run The Tool And AnonSurf Will Work
+### How To Install AnonSurf After Using The Install Option Within The Tool: Press Ctrl + C | Type "ls" | You will see "kali-anonsurf", Type "cd kali-anonsurf" |
+### Type "bash installer.sh | Re-Run The Tool And AnonSurf Will Work
 
 ## Features
-# ===============
-# Extensive Learning Resources
-# Vulnerability/Information Gathering Section
-# Mini-OSINT Section
-# "Psyco's Toolbox" Contains Other Repos Made By Me Built Into The Tool.
+#### Extensive Learning Resources
+#### Vulnerability/Information Gathering Section
+#### Mini-OSINT Section
+#### "Psyco's Toolbox" Contains Other Repos Made By Me Built Into The Tool.
 
 ### Visit Our Github Profile And The Original Version Of Trifecta
-# ==================================================================
-# https://github.com/psycolulz
-# ----------------------------------
-# https://github.com/psycolulz/trifecta_public
+##### https://github.com/psycolulz
+##### https://github.com/psycolulz/trifecta_public
