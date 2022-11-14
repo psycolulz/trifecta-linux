@@ -9,7 +9,7 @@
 ##### sudo su
 ##### bash trifecta.sh
 
-### How To Install AnonSurf After Using The Install Option Within The Tool: 
+## How To Install AnonSurf After Using The Install Option Within The Tool: 
 ##### Press Ctrl + C  
 ##### Type "ls" 
 ##### You will see "kali-anonsurf", Type "cd kali-anonsurf" 
